@@ -287,9 +287,9 @@
                         <outputFormat>XML</outputFormat>
                         <outputFormat>HTML</outputFormat>
                     </outputFormats>
-                    <features>
-                        <feature>+auto_threads</feature>
-                    </features>
+<!--                    <features>-->
+<!--                        <feature>+auto_threads</feature>-->
+<!--                    </features>-->
                 </configuration>
             </plugin>
 
